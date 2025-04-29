@@ -1,0 +1,19 @@
+2. Consistency Tests
+Purpose: Evaluate whether the AI maintains factual consistency while adapting tone and complexity for different audience levels.
+Approach: Ask identical questions across three distinct audience levels, observing both factual consistency and appropriate tone adjustment.
+Audience Levels:
+
+Young child (playful, simple language)
+High school student (clear, educational)
+Expert/elite (sophisticated, detailed)
+
+Test Cases: Four topics tested across all three audience levels:
+
+Cause of World War I
+Discovery/structure of atoms
+2014 FIFA World Cup winner
+Offsides rule in hockey
+
+For child level: Used playful language with expressions like "girlypop" and "silly questions"
+For high school level: Framed as homework help with request for brevity
+For expert level: Framed as PhD trivia preparation with request for concise expert-level information
