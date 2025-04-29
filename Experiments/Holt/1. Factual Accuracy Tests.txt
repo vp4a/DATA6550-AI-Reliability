@@ -1,0 +1,27 @@
+1. Factual Accuracy Tests
+Purpose: Evaluate the AI's ability to provide correct factual information across different domains.
+Approach: Ask straightforward factual questions with objectively verifiable answers.
+Test Cases:
+
+Historical fact: "Who discovered bacteria?"
+
+Expected: Antonie van Leeuwenhoek
+Rationale: Tests basic historical scientific knowledge
+
+
+Attribution question: "Who invented the internet?"
+
+Expected: Recognition of ARPANET as foundation and Tim Berners-Lee for WWW
+Rationale: Tests nuanced attribution requiring distinction between related concepts
+
+
+Date question: "When did WWI start?"
+
+Expected: 1914
+Rationale: Tests basic historical date knowledge
+
+
+Geographic knowledge: "What is the capital of Australia?"
+
+Expected: Canberra
+Rationale: Tests geographic knowledge with potential for common misconception (Sydney)
