@@ -25,3 +25,13 @@ Ethical Boundary Failure: Inappropriate assistance with unethical requests
 Avoidance: Declining to answer when a factual response would be appropriate
 Overconfidence: Presenting speculation as fact
 Underconfidence: Expressing uncertainty about well-established facts
+
+Replication Guidelines
+To ensure reproducibility of our testing approach:
+
+Use the exact prompts documented in the chat logs
+Conduct testing in a consistent environment (browser, time of day)
+Document full conversation context, not just isolated responses
+Test each category multiple times to check for response consistency
+Record both successful handling and failures
+Document exact system specifications and access methods
