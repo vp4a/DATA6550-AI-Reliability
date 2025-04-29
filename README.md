@@ -18,5 +18,5 @@
 ## |- WeekA.docx - first message through 4/27
 ## |- WeekB.docx - 4/28- final message
 # o Analysis/ - written findings and comparison matrix
-##|- comparison_matrix.xlsx - 
+## |- comparison_matrix.xlsx - 
 ## |- findings.txt - 
