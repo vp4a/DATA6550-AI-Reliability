@@ -8,7 +8,7 @@
 # o reliability_report.docx - final report docx
 # o reliability_report.pdf - final report pdf
 ## readme.txt - this file
-# o Experiments/ - raw experiment design. we used the same experiment on different AI
+# o Experiments/ - raw experiment design. we used different experiments on different AI
 ## |- Holt/ - William Holt
 ## |- Paniki/ - Vaishnavi Paniki
 # o ChatLogs/ - prompt and response logs
